@@ -1,0 +1,4 @@
+MainPackage=C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.WindowsPhone\bin\Release\AppWords.WindowsPhone_1.1.0.3_AnyCPU.appx
+SymbolPackage=C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.WindowsPhone\AppPackages\AppWords.WindowsPhone_1.1.0.3_Test\AppWords.WindowsPhone_1.1.0.3_AnyCPU.appxsym
+ResourcePack=C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.WindowsPhone\bin\Release\AppWords.WindowsPhone_1.1.0.3_scale-100.appx
+ResourcePack=C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.WindowsPhone\bin\Release\AppWords.WindowsPhone_1.1.0.3_scale-140.appx

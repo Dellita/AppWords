@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="5690SvetlanaAhmet.WordDiagonal" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>RU-RU</Language>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="AppWords.WindowsPhone.xr.xml" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Files/AppWords.WindowsPhone.xr.xml">
+				<Candidate type="Path">
+					<Value>AppWords.WindowsPhone.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="dictFainWord.txt" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Files/dictFainWord.txt">
+				<Candidate type="Path">
+					<Value>dictFainWord.txt</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="dictFourWord.txt" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Files/dictFourWord.txt">
+				<Candidate type="Path">
+					<Value>dictFourWord.txt</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="dictFriWord.txt" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Files/dictFriWord.txt">
+				<Candidate type="Path">
+					<Value>dictFriWord.txt</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="dictSexWord.txt" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Files/dictSexWord.txt">
+				<Candidate type="Path">
+					<Value>dictSexWord.txt</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="fon.png" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Files/fon.png">
+				<Candidate type="Path">
+					<Value>fon.png</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="fonBlank.jpg" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Files/fonBlank.jpg">
+				<Candidate type="Path">
+					<Value>fonBlank.jpg</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="HelpPage.xbf" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Files/HelpPage.xbf">
+				<Candidate type="Path">
+					<Value>HelpPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="BadgeLogo.png" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Files/Assets/BadgeLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\BadgeLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.png" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Files/Assets/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WideLogo.png" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Files/Assets/WideLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\WideLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Resources">
+			<NamedResource name="descpiption" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Resources/descpiption">
+				<Candidate qualifiers="Language-RU-RU" isDefault="true" type="String">
+					<Value> Перед Вами словесная игра. Игра полезна не только детям, но и будет интересна всзрослым.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="gameOver" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Resources/gameOver">
+				<Candidate qualifiers="Language-RU-RU" isDefault="true" type="String">
+					<Value>Следующая игра. </Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="gameOverAI" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Resources/gameOverAI">
+				<Candidate qualifiers="Language-RU-RU" isDefault="true" type="String">
+					<Value>Игра окончена. Победил телефон.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="gameOverPlayer" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Resources/gameOverPlayer">
+				<Candidate qualifiers="Language-RU-RU" isDefault="true" type="String">
+					<Value>Игра окончена. Победил игрок.</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="aIName">
+				<NamedResource name="FontSize" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Resources/aIName/FontSize">
+					<Candidate qualifiers="Language-RU-RU" isDefault="true" type="String">
+						<Value>16</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Text" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Resources/aIName/Text">
+					<Candidate qualifiers="Language-RU-RU" isDefault="true" type="String">
+						<Value>Телефон</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="appName">
+				<NamedResource name="FontSize" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Resources/appName/FontSize">
+					<Candidate qualifiers="Language-RU-RU" isDefault="true" type="String">
+						<Value>24</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FontStyle" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Resources/appName/FontStyle">
+					<Candidate qualifiers="Language-RU-RU" isDefault="true" type="String">
+						<Value>Italic</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FontWeight" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Resources/appName/FontWeight">
+					<Candidate qualifiers="Language-RU-RU" isDefault="true" type="String">
+						<Value>Bold</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Text" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Resources/appName/Text">
+					<Candidate qualifiers="Language-RU-RU" isDefault="true" type="String">
+						<Value>Диагонали.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="btnGame">
+				<NamedResource name="Content" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Resources/btnGame/Content">
+					<Candidate qualifiers="Language-RU-RU" isDefault="true" type="String">
+						<Value>Новая игра</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FontStyle" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Resources/btnGame/FontStyle">
+					<Candidate qualifiers="Language-RU-RU" isDefault="true" type="String">
+						<Value>Italic</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="btnHelp">
+				<NamedResource name="Content" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Resources/btnHelp/Content">
+					<Candidate qualifiers="Language-RU-RU" isDefault="true" type="String">
+						<Value>Правила</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FontStyle" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Resources/btnHelp/FontStyle">
+					<Candidate qualifiers="Language-RU-RU" isDefault="true" type="String">
+						<Value>Italic</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="btnTypeGames">
+				<NamedResource name="Content" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Resources/btnTypeGames/Content">
+					<Candidate qualifiers="Language-RU-RU" isDefault="true" type="String">
+						<Value>Уровень с начала</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FontSize" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Resources/btnTypeGames/FontSize">
+					<Candidate qualifiers="Language-RU-RU" isDefault="true" type="String">
+						<Value>16</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FontStyle" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Resources/btnTypeGames/FontStyle">
+					<Candidate qualifiers="Language-RU-RU" isDefault="true" type="String">
+						<Value>Italic</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="help0">
+				<NamedResource name="FontSize" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Resources/help0/FontSize">
+					<Candidate qualifiers="Language-RU-RU" isDefault="true" type="String">
+						<Value>22</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Text" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Resources/help0/Text">
+					<Candidate qualifiers="Language-RU-RU" isDefault="true" type="String">
+						<Value>Дается  поле NxN. По диоганали поля прописвается случайная буква алфавита. Задача игрока: придумать слова  с нужным расположением "ключевой" буквы и заполнить квадраты. Слова можно вписывать в разные строчки, по мере их придумывания.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextAlignment" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Resources/help0/TextAlignment">
+					<Candidate qualifiers="Language-RU-RU" isDefault="true" type="String">
+						<Value>Justify</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="pageHelp">
+				<NamedResource name="FontSize" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Resources/pageHelp/FontSize">
+					<Candidate qualifiers="Language-RU-RU" isDefault="true" type="String">
+						<Value>24</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FontWeight" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Resources/pageHelp/FontWeight">
+					<Candidate qualifiers="Language-RU-RU" isDefault="true" type="String">
+						<Value>Bold</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Text" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Resources/pageHelp/Text">
+					<Candidate qualifiers="Language-RU-RU" isDefault="true" type="String">
+						<Value>Правила игры.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="playerName">
+				<NamedResource name="FontSize" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Resources/playerName/FontSize">
+					<Candidate qualifiers="Language-RU-RU" isDefault="true" type="String">
+						<Value>16</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Text" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Resources/playerName/Text">
+					<Candidate qualifiers="Language-RU-RU" isDefault="true" type="String">
+						<Value>Слов всего:</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="radioFourGame">
+				<NamedResource name="Content" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Resources/radioFourGame/Content">
+					<Candidate qualifiers="Language-RU-RU" isDefault="true" type="String">
+						<Value>Игра на 4 буквы.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="radioFriGame">
+				<NamedResource name="Content" uri="ms-resource://5690SvetlanaAhmet.WordDiagonal/Resources/radioFriGame/Content">
+					<Candidate qualifiers="Language-RU-RU" isDefault="true" type="String">
+						<Value>Игра на 3 буквы.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

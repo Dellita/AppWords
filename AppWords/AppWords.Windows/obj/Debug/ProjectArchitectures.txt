@@ -1,0 +1,1 @@
+C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.Windows\AppWords.Windows.csproj;neutral

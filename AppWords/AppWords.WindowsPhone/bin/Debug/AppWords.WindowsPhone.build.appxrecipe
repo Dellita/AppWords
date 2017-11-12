@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MART2014</Machine>
+    <WindowsUser>Sveta</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>22e31ef6-a068-4096-843a-8141bce1fb63</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.WindowsPhone\bin\Debug\AppWords.WindowsPhone.exe">
+      <PackagePath>AppWords.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.WindowsPhone\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.WindowsPhone\Assets\BadgeLogo.scale-140.png">
+      <PackagePath>Assets\BadgeLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.WindowsPhone\Assets\BadgeLogo.scale-240.png">
+      <PackagePath>Assets\BadgeLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.WindowsPhone\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.WindowsPhone\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.WindowsPhone\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.WindowsPhone\Assets\Square71x71Logo.scale-140.png">
+      <PackagePath>Assets\Square71x71Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.Shared\fon.png">
+      <PackagePath>fon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.Shared\dictFainWord.txt">
+      <PackagePath>dictFainWord.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.Shared\dictFourWord.txt">
+      <PackagePath>dictFourWord.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.Shared\dictFriWord.txt">
+      <PackagePath>dictFriWord.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.Shared\dictSexWord.txt">
+      <PackagePath>dictSexWord.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.Shared\fonBlank.jpg">
+      <PackagePath>fonBlank.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.WindowsPhone\bin\Debug\AppWords.WindowsPhone.xr.xml">
+      <PackagePath>AppWords.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.WindowsPhone\bin\Debug\HelpPage.xbf">
+      <PackagePath>HelpPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sveta\documents\visual studio 2015\Projects\AppWords\AppWords\AppWords.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
